@@ -1,0 +1,22 @@
+# Project exclude paths
+/06_webpack_ts/node_modules/
+/06_webpack_ts/src/main.js
+/07_baseType_ts/node_modules/
+/07_baseType_ts/src/baseType.js
+/07_baseType_ts/src/main.js
+/08_interface_ts/node_modules/
+/08_interface_ts/src/02函数类型.js
+/08_interface_ts/src/03类类型.js
+/09_class_ts/node_modules/
+/10_function_ts/node_modules/
+/10_function_ts/src/11函数.js
+/10_function_ts/src/12可选参数及默认参数.js
+/10_function_ts/src/13剩余参数.js
+/10_function_ts/src/14函数重载.js
+/11_generic_ts/node_modules/
+/11_generic_ts/src/15泛型.js
+/11_generic_ts/src/16多个泛型参数的函数.js
+/11_generic_ts/src/17泛型接口.js
+/11_generic_ts/src/18泛型类.js
+/11_generic_ts/src/19泛型约束.js
+/11_generic_ts/src/main.js

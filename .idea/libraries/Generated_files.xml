@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/06_webpack_ts/src/main.js" />
+        <item url="file://$PROJECT_DIR$/07_baseType_ts/src/baseType.js" />
+        <item url="file://$PROJECT_DIR$/07_baseType_ts/src/main.js" />
+        <item url="file://$PROJECT_DIR$/08_interface_ts/src/01interface.js" />
+        <item url="file://$PROJECT_DIR$/08_interface_ts/src/02函数类型.js" />
+        <item url="file://$PROJECT_DIR$/08_interface_ts/src/03类类型.js" />
+        <item url="file://$PROJECT_DIR$/08_interface_ts/src/main.js" />
+        <item url="file://$PROJECT_DIR$/09_class_ts/src/main.js" />
+        <item url="file://$PROJECT_DIR$/10_function_ts/src/11函数.js" />
+        <item url="file://$PROJECT_DIR$/10_function_ts/src/12可选参数及默认参数.js" />
+        <item url="file://$PROJECT_DIR$/10_function_ts/src/13剩余参数.js" />
+        <item url="file://$PROJECT_DIR$/10_function_ts/src/14函数重载.js" />
+        <item url="file://$PROJECT_DIR$/10_function_ts/src/main.js" />
+        <item url="file://$PROJECT_DIR$/11_generic_ts/src/15泛型.js" />
+        <item url="file://$PROJECT_DIR$/11_generic_ts/src/16多个泛型参数的函数.js" />
+        <item url="file://$PROJECT_DIR$/11_generic_ts/src/17泛型接口.js" />
+        <item url="file://$PROJECT_DIR$/11_generic_ts/src/18泛型类.js" />
+        <item url="file://$PROJECT_DIR$/11_generic_ts/src/19泛型约束.js" />
+        <item url="file://$PROJECT_DIR$/11_generic_ts/src/main.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/06_webpack_ts/src/main.js" />
+      <root url="file://$PROJECT_DIR$/07_baseType_ts/src/baseType.js" />
+      <root url="file://$PROJECT_DIR$/07_baseType_ts/src/main.js" />
+      <root url="file://$PROJECT_DIR$/08_interface_ts/src/01interface.js" />
+      <root url="file://$PROJECT_DIR$/08_interface_ts/src/02函数类型.js" />
+      <root url="file://$PROJECT_DIR$/08_interface_ts/src/03类类型.js" />
+      <root url="file://$PROJECT_DIR$/08_interface_ts/src/main.js" />
+      <root url="file://$PROJECT_DIR$/09_class_ts/src/main.js" />
+      <root url="file://$PROJECT_DIR$/10_function_ts/src/11函数.js" />
+      <root url="file://$PROJECT_DIR$/10_function_ts/src/12可选参数及默认参数.js" />
+      <root url="file://$PROJECT_DIR$/10_function_ts/src/13剩余参数.js" />
+      <root url="file://$PROJECT_DIR$/10_function_ts/src/14函数重载.js" />
+      <root url="file://$PROJECT_DIR$/10_function_ts/src/main.js" />
+      <root url="file://$PROJECT_DIR$/11_generic_ts/src/15泛型.js" />
+      <root url="file://$PROJECT_DIR$/11_generic_ts/src/16多个泛型参数的函数.js" />
+      <root url="file://$PROJECT_DIR$/11_generic_ts/src/17泛型接口.js" />
+      <root url="file://$PROJECT_DIR$/11_generic_ts/src/18泛型类.js" />
+      <root url="file://$PROJECT_DIR$/11_generic_ts/src/19泛型约束.js" />
+      <root url="file://$PROJECT_DIR$/11_generic_ts/src/main.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
